@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: bc358f686b7e34fec8a315d9d37f79dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 727
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8747439cb6913433b9a399202cbbb733
+      internalID: 1881488542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 728
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197572b3f11f465faa36421852c3250
+      internalID: -202486649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 727
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd430a413a7bc423aa04bd9a397c1fd7
+      internalID: -465187647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 727
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69117384958142afa2d20e4fff163ac
+      internalID: -1669174046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 727
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c2a31812d1649c6b03c490ff9e6b16
+      internalID: -572956656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ddb5ca97e1451bb325404f26918fa
+      internalID: -758898200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9350caef33d104c7cb97cf11e3855f85
+      internalID: -900970940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 728
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127e54d1d1a9746a39b667854feae0b0
+      internalID: -1985982477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 628
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffa05cc1e2e4d68a8e17e3e2ab443a
+      internalID: -1140264036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 628
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f59a7f3259e4cac8b5758399dd443f
+      internalID: -534565958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 628
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c17ee247f8436f8f74647c8e34547
+      internalID: 1717582905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 629
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6295319536114f06a695d528eb4b338
+      internalID: 156542026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 629
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5399545cdcc04f7abd24eb767f69de4
+      internalID: 1913861034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 628
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746b73c23d0b4b49a875cccf405ea3c
+      internalID: -2146892331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 628
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bde2ced1b8548539fe73188ec5f24d
+      internalID: 488929242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 628
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe41529cbc24b4dfdaa4700dddbb9320
+      internalID: -945480196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 528
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d9293674c848c796b6fe83aa99c95
+      internalID: 1457111983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 528
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edaac1b1549e46299899778bb3427bd
+      internalID: -228255337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 527
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bdd4722d23c4bb88abf30cae1c0834
+      internalID: -1422189729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 528
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ceda3fba9a4a6a90a01263d0e471a
+      internalID: -291232397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 528
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dfe98065f76487d85da296f9f0e1a5
+      internalID: 1433283395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 528
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49d0f75cbc394b92b109773354f0ebb
+      internalID: -1707429255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 528
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa697939d63fe488588867f13986b888
+      internalID: -281996707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 528
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e5562f2d36840fb8a905c35ff337a1
+      internalID: 452851079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 428
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3240717889e4b7b816236f0e8b8693
+      internalID: -735610757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 429
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee993a43dc544e8b8241830722e83f
+      internalID: 2016894269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 429
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c56e495ab66748939ead3dbd6b4034e
+      internalID: -756420550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 429
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcefc61ad84b455e9df4073635f917a
+      internalID: -1439526910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 428
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da55c464215a44016a83481c19edd5e3
+      internalID: 1462454644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 428
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4724105fda41453fb31f821bb8db901
+      internalID: -106160180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 428
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3fb6d1c25d342debd6d7096654fd36
+      internalID: 666745861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 428
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e33d3aed7d3c49788f77e4403d6f1f9
+      internalID: -1425889533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 328
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e451deb6e6de544ab8ce1bdc91c41bf6
+      internalID: -390526450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 328
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a9edc541534349acdebf35fd425d9
+      internalID: -677669221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 328
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea14c5d0312a4d86a235161291e021a
+      internalID: -1467964811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2979c4dc358f45acb76b5118ef04f49
+      internalID: 1800146276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 329
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f96ea7fdf88486892bfb185639b647
+      internalID: -842216454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 329
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8ccf72658a4dbb9b550924aab6a37
+      internalID: 955961730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 328
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb5ea01e10a6443bafbb7d91b6e4ecb
+      internalID: -916021367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 328
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d192810fbd64f9b9bdee4a760922cb
+      internalID: -1804142638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 228
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d89e49d89341cb85369a71beca43a
+      internalID: -143428785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 228
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c28f30ae37a4adfb1e8609872cf68e
+      internalID: 974564846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 228
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778bacad018c24f9b97c242bb369c3d1
+      internalID: 1520796879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 227
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf23b6d16fb34a69b122c3b698350aa
+      internalID: -1702464197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 228
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e80083490b4dfdb88e22e8f47aaa2
+      internalID: -1108299031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 228
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf3ec6cec59c49018aedaa255a607a9
+      internalID: 1545427769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 228
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82053904e3c74197af05e7fbef71099
+      internalID: -1280857256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 228
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c80145c47cd4b3383102e0ba39447c
+      internalID: 758580016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 128
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a9f319860144978bf2eb5eebb86547
+      internalID: 766434907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 128
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b35cf22b5a74b41a51866fb6b407ad
+      internalID: 1136571968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 129
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f103503f4047018f85cb7ad66336b
+      internalID: 1412486687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 129
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea0d01718a644d494b43938a023264
+      internalID: 12824483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 129
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1312777dd7954248850d546a24ab9be
+      internalID: -1453821818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 128
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922ed7f1987c4f99837bb51e0c816df
+      internalID: -2047134873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 128
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b524c5756fd2548b0adac161b6710e26
+      internalID: 1586486938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 128
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d9710a3e71407a8f58df232c85e54
+      internalID: -1403016716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 28
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee02894f689d647dc818ba1d68014922
+      internalID: 1695822762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 27
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b91074b801e40ceaa5d37a92f26ae5
+      internalID: 2141507865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 27
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c0d89a09914893bee12da2e0f981e
+      internalID: -691627502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 27
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e57f211c07c4668b90880e3a70b95a
+      internalID: 1282856308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_protectioncircle_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 27
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f788bb398143f0a83a85059d187d9
+      internalID: -1007213178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      8_protectioncircle_spritesheet_1: -202486649
+      8_protectioncircle_spritesheet_45: 1545427769
+      8_protectioncircle_spritesheet_23: 452851079
+      8_protectioncircle_spritesheet_58: -691627502
+      8_protectioncircle_spritesheet_13: -2146892331
+      8_protectioncircle_spritesheet_12: 1913861034
+      8_protectioncircle_spritesheet_47: 758580016
+      8_protectioncircle_spritesheet_3: -1669174046
+      8_protectioncircle_spritesheet_30: 666745861
+      8_protectioncircle_spritesheet_11: 156542026
+      8_protectioncircle_spritesheet_18: -1422189729
+      8_protectioncircle_spritesheet_31: -1425889533
+      8_protectioncircle_spritesheet_28: 1462454644
+      8_protectioncircle_spritesheet_40: -143428785
+      8_protectioncircle_spritesheet_29: -106160180
+      8_protectioncircle_spritesheet_25: 2016894269
+      8_protectioncircle_spritesheet_5: -758898200
+      8_protectioncircle_spritesheet_52: -1453821818
+      8_protectioncircle_spritesheet_22: -281996707
+      8_protectioncircle_spritesheet_33: -677669221
+      8_protectioncircle_spritesheet_0: 1881488542
+      8_protectioncircle_spritesheet_59: 1282856308
+      8_protectioncircle_spritesheet_56: 1695822762
+      8_protectioncircle_spritesheet_44: -1108299031
+      8_protectioncircle_spritesheet_20: 1433283395
+      8_protectioncircle_spritesheet_16: 1457111983
+      8_protectioncircle_spritesheet_49: 1136571968
+      8_protectioncircle_spritesheet_55: -1403016716
+      8_protectioncircle_spritesheet_15: -945480196
+      8_protectioncircle_spritesheet_36: -842216454
+      8_protectioncircle_spritesheet_2: -465187647
+      8_protectioncircle_spritesheet_51: 12824483
+      8_protectioncircle_spritesheet_4: -572956656
+      8_protectioncircle_spritesheet_27: -1439526910
+      8_protectioncircle_spritesheet_7: -1985982477
+      8_protectioncircle_spritesheet_9: -534565958
+      8_protectioncircle_spritesheet_57: 2141507865
+      8_protectioncircle_spritesheet_37: 955961730
+      8_protectioncircle_spritesheet_26: -756420550
+      8_protectioncircle_spritesheet_10: 1717582905
+      8_protectioncircle_spritesheet_46: -1280857256
+      8_protectioncircle_spritesheet_14: 488929242
+      8_protectioncircle_spritesheet_35: 1800146276
+      8_protectioncircle_spritesheet_34: -1467964811
+      8_protectioncircle_spritesheet_42: 1520796879
+      8_protectioncircle_spritesheet_48: 766434907
+      8_protectioncircle_spritesheet_19: -291232397
+      8_protectioncircle_spritesheet_50: 1412486687
+      8_protectioncircle_spritesheet_21: -1707429255
+      8_protectioncircle_spritesheet_24: -735610757
+      8_protectioncircle_spritesheet_60: -1007213178
+      8_protectioncircle_spritesheet_8: -1140264036
+      8_protectioncircle_spritesheet_6: -900970940
+      8_protectioncircle_spritesheet_38: -916021367
+      8_protectioncircle_spritesheet_39: -1804142638
+      8_protectioncircle_spritesheet_41: 974564846
+      8_protectioncircle_spritesheet_43: -1702464197
+      8_protectioncircle_spritesheet_54: 1586486938
+      8_protectioncircle_spritesheet_17: -228255337
+      8_protectioncircle_spritesheet_32: -390526450
+      8_protectioncircle_spritesheet_53: -2047134873
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
